@@ -32,7 +32,7 @@ my_transformer/
 wandb/
 main.ipynb
 
-```bash
+```
 
 
 ## 제출 방법
