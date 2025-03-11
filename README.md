@@ -2,9 +2,6 @@
 
 원작자: 24기 DS 부팀장 박동연
 
-![Example Image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9b3d717-d55e-404a-8981-ff2667b446d3%2F844c4afb-0f96-43c3-8ea7-5406e243b5b0%2Fimage.png?table=block&id=1b383604-23c9-80f2-a1fb-e56bc29acd64&spaceId=a9b3d717-d55e-404a-8981-ff2667b446d3&width=2000&userId=1d753d56-6757-4e76-baeb-c33a37e452a0&cache=v2)
-
-
 안녕하세요 DS팀에 오신 것을 정말 환영합니다.
 
 OT인데 과제가 있다니 죄송하네요
@@ -20,11 +17,25 @@ OT인데 과제가 있다니 죄송하네요
 
 ## 제출 파일 구조
 
-![Example Image](https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fa9b3d717-d55e-404a-8981-ff2667b446d3%2F844c4afb-0f96-43c3-8ea7-5406e243b5b0%2Fimage.png?table=block&id=1b383604-23c9-80f2-a1fb-e56bc29acd64&spaceId=a9b3d717-d55e-404a-8981-ff2667b446d3&width=2000&userId=1d753d56-6757-4e76-baeb-c33a37e452a0&cache=v2)
+```bash
+my_transformer/
+├── __init__.py
+├── attention.py
+├── decoder.py
+├── embeddings.py
+├── encoder.py
+├── feedforward.py
+├── my_transformer.py
+├── normalization.py
+└── residual.py
+
+wandb/
+main.ipynb
+
 
 ## 제출 방법
 
-1. git clone https://github.com/yeon-ee/Week_01_Transformer.git
+1. git clone https://github.com/imsuviiix/25-1-DS-Week-1-Assignment.git
 2. 각 모듈 속 비어있는 **#TODO를 완성**하기
     1. 전부 typing이 되어 있고, typing을 안 고치시는게 전체 모듈을 수정하지 않는 방법
     2. one line! 은 진짜 한 줄 컷. return이 None 아니라면 return문 하나만 써주면 끝
