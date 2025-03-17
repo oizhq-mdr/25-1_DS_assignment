@@ -1,3 +1,8 @@
+![dashboard](/CleanShot%202025-03-18%20at%2000.11.57@2x.png)
+
+
+
+
 # 25-1-DS-Week-1-Assignment
 
 원작자: 24기 DS 부팀장 박동연
