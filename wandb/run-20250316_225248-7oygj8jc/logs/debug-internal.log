@@ -1,0 +1,12 @@
+{"time":"2025-03-16T22:52:48.829945+09:00","level":"INFO","msg":"stream: starting","core version":"0.19.8","symlink path":"/Users/jaewoolee/25-1-DS-Week-1-Assignment/wandb/run-20250316_225248-7oygj8jc/logs/debug-core.log"}
+{"time":"2025-03-16T22:52:49.142226+09:00","level":"INFO","msg":"created new stream","id":"7oygj8jc"}
+{"time":"2025-03-16T22:52:49.142286+09:00","level":"INFO","msg":"stream: started","id":"7oygj8jc"}
+{"time":"2025-03-16T22:52:49.142302+09:00","level":"INFO","msg":"handler: started","stream_id":"7oygj8jc"}
+{"time":"2025-03-16T22:52:49.142357+09:00","level":"INFO","msg":"writer: Do: started","stream_id":"7oygj8jc"}
+{"time":"2025-03-16T22:52:49.142382+09:00","level":"INFO","msg":"sender: started","stream_id":"7oygj8jc"}
+{"time":"2025-03-16T22:52:49.474012+09:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-03-16T22:53:23.121056+09:00","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-03-16T23:19:35.041733+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/oizhq2062-yonsei-university/transformer/7oygj8jc/file_stream\": read tcp 192.168.0.24:62878->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-16T23:21:35.205246+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/oizhq2062-yonsei-university/transformer/7oygj8jc/file_stream\": read tcp 192.168.0.24:62963->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-16T23:33:35.060723+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/oizhq2062-yonsei-university/transformer/7oygj8jc/file_stream\": read tcp 192.168.0.24:63486->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2025-03-16T23:40:05.170967+09:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/files/oizhq2062-yonsei-university/transformer/7oygj8jc/file_stream\": read tcp 192.168.0.24:63672->35.186.228.49:443: read: connection reset by peer"}
