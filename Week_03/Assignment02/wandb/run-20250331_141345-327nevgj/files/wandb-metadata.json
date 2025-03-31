@@ -1,0 +1,48 @@
+{
+    "os": "macOS-15.3.1-arm64-arm-64bit",
+    "python": "3.10.16",
+    "heartbeatAt": "2025-03-31T05:13:46.077920",
+    "startedAt": "2025-03-31T05:13:45.310286",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "<python with no main file>",
+    "codePathLocal": null,
+    "git": {
+        "remote": "https://github.com/oizhq-mdr/25-1_DS_assignment",
+        "commit": "152144c8cf5ca21d4ab359c83a6d415fdb7497bb"
+    },
+    "email": "oilcanguitar@gmail.com",
+    "root": "/Users/jaewoolee/25-1_DS_assignment",
+    "host": "Jaewoos-MacBook-Pro.local",
+    "username": "jaewoolee",
+    "executable": "/opt/anaconda3/envs/ds/bin/python",
+    "cpu_count": 12,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 3504,
+        "min": 702,
+        "max": 3504
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 3504,
+            "min": 702,
+            "max": 3504
+        }
+    ],
+    "disk": {
+        "/": {
+            "total": 926.3517189025879,
+            "used": 10.734249114990234
+        }
+    },
+    "gpuapple": {
+        "type": "arm",
+        "vendor": "Apple"
+    },
+    "memory": {
+        "total": 32.0
+    }
+}

@@ -1,0 +1,43 @@
+{
+  "os": "macOS-15.3.1-arm64-arm-64bit",
+  "python": "CPython 3.10.16",
+  "startedAt": "2025-03-31T05:15:21.662993Z",
+  "program": "/Users/jaewoolee/25-1_DS_assignment/Week_03/Assignment02/train.ipynb",
+  "codePath": "Week_03/Assignment02/train.ipynb",
+  "git": {
+    "remote": "https://github.com/oizhq-mdr/25-1_DS_assignment",
+    "commit": "152144c8cf5ca21d4ab359c83a6d415fdb7497bb"
+  },
+  "email": "oizhq2062@yonsei.ac.kr",
+  "root": "/Users/jaewoolee/25-1_DS_assignment/Week_03/Assignment02",
+  "host": "Jaewoos-MacBook-Pro.local",
+  "executable": "/opt/anaconda3/envs/ds/bin/python",
+  "codePathLocal": "train.ipynb",
+  "cpu_count": 12,
+  "cpu_count_logical": 12,
+  "disk": {
+    "/": {
+      "total": "994662584320",
+      "used": "661094985728"
+    },
+    "/System/Volumes/Data": {
+      "total": "994662584320",
+      "used": "661094985728"
+    }
+  },
+  "memory": {
+    "total": "34359738368"
+  },
+  "cpu": {
+    "count": 12,
+    "countLogical": 12
+  },
+  "apple": {
+    "name": "Apple M2 Max",
+    "ecpuCores": 4,
+    "pcpuCores": 8,
+    "gpuCores": 30,
+    "memoryGb": 32,
+    "ramTotalBytes": "34359738368"
+  }
+}
